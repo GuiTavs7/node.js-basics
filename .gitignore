@@ -1,0 +1,7 @@
+# dependencies
+
+# Ignore all node_modules folders
+
+# to use project, run `npm install` or `yarn install` to install dependencies
+
+/node_modules
