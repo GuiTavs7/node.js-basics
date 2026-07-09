@@ -4,4 +4,4 @@
 
 # to use project, run `npm install` or `yarn install` to install dependencies
 
-/node_modules
+node_modules/
